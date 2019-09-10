@@ -2,7 +2,7 @@
 Mobile Android game in the genre of clicker, developed using the game engine Unity. </br>
 Note: the Assembly is very raw. </br>
 Link to apk file:</br>
-https://yadi.sk/d/7gEozMVys1HQoA
+https://drive.google.com/file/d/1rdIbIeV_qtRjFi8paoeABejhtW1y0aYD/view?usp=sharing
 
 Below are screenshots from the application</br>
 
